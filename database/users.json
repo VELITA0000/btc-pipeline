@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "user_id": "diego123",
+      "name": "Diego",
+      "email": "diego@email.com",
+      "status": "active"
+    },
+    {
+      "user_id": "vela123",
+      "name": "David Vela",
+      "email": "david@email.com",
+      "status": "active"
+    },
+    {
+      "user_id": "eli123",
+      "name": "Eli Alvarez",
+      "email": "eli@email.com",
+      "status": "active"
+    },
+    {
+      "user_id": "fabricio123",
+      "name": "Fabricio",
+      "email": "fabricio@email.com",
+      "status": "active"
+    },
+    {
+      "user_id": "dario123",
+      "name": "Dario",
+      "email": "dario@email.com",
+      "status": "active"
+    }
+  ]
+}
